@@ -1,0 +1,4 @@
+---
+ - hosts: jumpbox
+   roles:
+     - osp_example
